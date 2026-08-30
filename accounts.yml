@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to HdfcBank account related local APIs"
+  message: "Welcome to HdfcBank account related docker APIs"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
